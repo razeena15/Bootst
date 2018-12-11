@@ -13,11 +13,13 @@ html,body{
     color: black;
     height: 100%;
     text-align: center;
+    
     display: flex;
     align-items: center;
     
 }
-.card
+
+.card1
 {
     width: 300px;
     height:200px;
@@ -32,7 +34,10 @@ html,body{
 {
     color:black;
 }
-
+.form-group
+{
+    padding-right: 20px;
+}
 .carousel-item img
 {
     width: 1600px;
@@ -42,4 +47,10 @@ html,body{
 #cover-caption
 {
     width:100%;
+    margin left: 50px;
+}
+
+.section-content
+{
+    padding: 80px 0;
 }
