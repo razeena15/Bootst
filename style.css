@@ -1,0 +1,45 @@
+/* style.css */
+
+html,body{
+    height: 100%;
+}
+
+/* cover */
+
+#cover
+{
+    background: #222 url("img/7.jpg")center center no-repeat;
+    background-size: cover;
+    color: black;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    
+}
+.card
+{
+    width: 300px;
+    height:200px;
+}
+.card-text
+{
+    font-size: 20px;
+
+}
+
+#bl,#b
+{
+    color:black;
+}
+
+.carousel-item img
+{
+    width: 1600px;
+    height: 800px;
+}
+
+#cover-caption
+{
+    width:100%;
+}
